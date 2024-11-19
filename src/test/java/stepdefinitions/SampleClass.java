@@ -1,4 +1,4 @@
-package stepdefintions;
+package stepdefinitions;
 
 public class SampleClass {
 }
